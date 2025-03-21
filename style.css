@@ -964,6 +964,15 @@ noscript {
     align-items: center;
     justify-content: center
 }
+.about-section,
+.experience-section-div,
+.skills-section {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
 
 .projects-heading,
 .section-heading,
